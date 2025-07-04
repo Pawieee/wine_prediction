@@ -1,5 +1,8 @@
 # 🍷 Wine Quality Predictor using Random Forest Classifier
 
+![Image Preview](images/preview.png)
+A simple machine learning project that classifies wine quality (GOOD or NOT GOOD) based on its chemical properties.
+
 ---
 
 ## 🧠 How It Works
